@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+Hello <b>$name!</b>  Welcome to Velocity!
+<h1> Seu HTML fica aqui</h1>
+<br/>
+<br/>
+Timestamp do arquivo : $genDateTime
+</body>
+</html>
